@@ -1,0 +1,10 @@
+E:\Works\FormatedCSV\FormatedCSV\bin\Debug\FormatedCSV.exe.config
+E:\Works\FormatedCSV\FormatedCSV\bin\Debug\FormatedCSV.exe
+E:\Works\FormatedCSV\FormatedCSV\bin\Debug\FormatedCSV.pdb
+E:\Works\FormatedCSV\FormatedCSV\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.csprojResolveAssemblyReference.cache
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.Form1.resources
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.Properties.Resources.resources
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.csproj.GenerateResource.Cache
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.exe
+E:\Works\FormatedCSV\FormatedCSV\obj\Debug\FormatedCSV.pdb
